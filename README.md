@@ -2,6 +2,8 @@
 
 Models for Digital Image Forgery Detection
 
-This contains the AutoEncoder and GANs model built using Deep Learning approaches.
+This contains the GANs aided Autoencoder model built using Deep Learning approaches.
+
+Reference from : **(https://arxiv.org/pdf/1802.04881.pdf)**
 
 
